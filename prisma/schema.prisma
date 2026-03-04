@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model League {
+  id        String   @id @default(cuid())
+  name      String
+  createdAt DateTime @default(now())
+  teams     Team[]
+  matches   Match[]
+}
+
+model Team {
+  id        String   @id @default(cuid())
+  name      String
+  leagueId  String
+  group     String?
+  createdAt DateTime @default(now())
+
+  league      League  @relation(fields: [leagueId], references: [id], onDelete: Cascade)
+  homeMatches Match[] @relation("HomeTeam")
+  awayMatches Match[] @relation("AwayTeam")
+}
+
+model Match {
+  id         String   @id @default(cuid())
+  leagueId   String
+  homeTeamId String
+  awayTeamId String
+  homeGoals  Int?
+  awayGoals  Int?
+  status     String   @default("PENDING") // PENDING or FINISHED
+  stage      String   @default("League Stage") // Group Stage, Round of 16, Super 8, Semi-Final, Final
+  createdAt  DateTime @default(now())
+
+  league   League @relation(fields: [leagueId], references: [id], onDelete: Cascade)
+  homeTeam Team   @relation("HomeTeam", fields: [homeTeamId], references: [id], onDelete: Cascade)
+  awayTeam Team   @relation("AwayTeam", fields: [awayTeamId], references: [id], onDelete: Cascade)
+}

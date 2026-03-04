@@ -1,0 +1,666 @@
+
+> football-league@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.26.104.147:3000
+- Environments: .env
+
+✓ Starting...
+✓ Ready in 636ms
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 540ms (compile: 458ms, render: 82ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 1079ms (compile: 1049ms, render: 31ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 6ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 4ms (compile: 939µs, render: 3ms)
+ POST /api/leagues 201 in 33ms (compile: 26ms, render: 6ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 52ms (compile: 12ms, render: 40ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 11ms (compile: 3ms, render: 8ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 4ms (compile: 1248µs, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 10ms (compile: 1406µs, render: 8ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 41ms (compile: 7ms, render: 35ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 8ms (compile: 5ms, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 5ms (compile: 1729µs, render: 4ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 743µs, render: 2ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 55ms (compile: 1664µs, render: 53ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 5ms (compile: 1749µs, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 743µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 2ms (compile: 569µs, render: 1528µs)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 32ms (compile: 5ms, render: 27ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 8ms (compile: 5ms, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 843µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 5ms (compile: 637µs, render: 5ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 54ms (compile: 12ms, render: 42ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 6ms (compile: 2ms, render: 4ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 994µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 708µs, render: 2ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 54ms (compile: 8ms, render: 46ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 7ms (compile: 5ms, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 1166µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 2ms (compile: 552µs, render: 1653µs)
+✓ Compiled in 278ms
+✓ Compiled in 79ms
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 137ms (compile: 75ms, render: 62ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 8ms (compile: 3ms, render: 5ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 5ms (compile: 1145µs, render: 4ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 2ms (compile: 647µs, render: 1732µs)
+ GET /competitions 404 in 96ms (compile: 50ms, render: 47ms)
+ GET / 200 in 68ms (compile: 32ms, render: 36ms)
+ GET /api/leagues 200 in 8ms (compile: 1813µs, render: 6ms)
+ GET /api/leagues 200 in 3ms (compile: 832µs, render: 2ms)
+ GET /api/leagues 200 in 2ms (compile: 691µs, render: 1640µs)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 41ms (compile: 11ms, render: 30ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 2ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 1489µs, render: 3ms)
+ POST /api/teams 201 in 58ms (compile: 47ms, render: 10ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 7ms (compile: 3ms, render: 4ms)
+ POST /api/teams 201 in 15ms (compile: 4ms, render: 11ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 12ms (compile: 6ms, render: 7ms)
+ POST /api/teams 201 in 11ms (compile: 3ms, render: 8ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 14ms (compile: 6ms, render: 8ms)
+ POST /api/teams 201 in 14ms (compile: 4ms, render: 10ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 10ms (compile: 5ms, render: 5ms)
+ POST /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 500 in 497ms (compile: 490ms, render: 7ms)
+ POST /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 200 in 19ms (compile: 7ms, render: 11ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 10ms (compile: 4ms, render: 6ms)
+ GET /api/leagues 200 in 10ms (compile: 3ms, render: 7ms)
+ GET /api/leagues 200 in 8ms (compile: 1851µs, render: 6ms)
+ POST /api/leagues 201 in 17ms (compile: 7ms, render: 10ms)
+ GET /api/leagues 200 in 9ms (compile: 2ms, render: 6ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 28ms (compile: 7ms, render: 21ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 6ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 911µs, render: 3ms)
+ POST /api/teams 201 in 14ms (compile: 4ms, render: 10ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 11ms (compile: 6ms, render: 5ms)
+ POST /api/teams 201 in 14ms (compile: 5ms, render: 9ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 12ms (compile: 5ms, render: 7ms)
+ POST /api/teams 201 in 15ms (compile: 3ms, render: 12ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 12ms (compile: 5ms, render: 7ms)
+ POST /api/teams 201 in 13ms (compile: 3ms, render: 9ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 12ms (compile: 6ms, render: 6ms)
+ POST /api/leagues/cmmc8bbmf000lrx2egcf2t6az/schedule 500 in 18ms (compile: 7ms, render: 10ms)
+ POST /api/teams 201 in 14ms (compile: 4ms, render: 10ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 10ms (compile: 4ms, render: 6ms)
+ POST /api/leagues/cmmc8bbmf000lrx2egcf2t6az/schedule 500 in 14ms (compile: 7ms, render: 7ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1018µs, render: 2ms)
+✓ Compiled in 79ms
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 142ms (compile: 77ms, render: 66ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 7ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1025µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 50ms (compile: 8ms, render: 41ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 9ms (compile: 6ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 724µs, render: 1859µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 2ms (compile: 720µs, render: 1772µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 24ms (compile: 3ms, render: 21ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1067µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 610µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 27ms (compile: 2ms, render: 25ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 919µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 2ms (compile: 587µs, render: 1639µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 584µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 33ms (compile: 4ms, render: 29ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 1196µs, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 2ms, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 27ms (compile: 2ms, render: 24ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 743µs, render: 1786µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 2ms (compile: 562µs, render: 1630µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 50ms (compile: 9ms, render: 42ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 678µs, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 1129µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 33ms (compile: 4ms, render: 29ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 11ms (compile: 7ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 710µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1146µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 54ms (compile: 11ms, render: 43ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 8ms (compile: 5ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 752µs, render: 1852µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 803µs, render: 3ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 404 in 214ms (compile: 61ms, render: 153ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 211ms (compile: 71ms, render: 140ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 126ms (compile: 29ms, render: 97ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 84ms (compile: 42ms, render: 41ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 140ms (compile: 49ms, render: 91ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 54ms (compile: 10ms, render: 43ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 30ms (compile: 23ms, render: 7ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 30ms (compile: 26ms, render: 4ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 725µs, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 1923µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 4ms (compile: 1036µs, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 404 in 182ms (compile: 26ms, render: 156ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 187ms (compile: 13ms, render: 174ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 39ms (compile: 2ms, render: 36ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 141ms (compile: 6ms, render: 135ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 172ms (compile: 82ms, render: 90ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 75ms (compile: 13ms, render: 62ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 18ms (compile: 6ms, render: 12ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 876µs, render: 4ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 6ms (compile: 913µs, render: 5ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 1774µs, render: 3ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 6ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 1710µs, render: 3ms)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 49ms (compile: 8ms, render: 41ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 10ms (compile: 4ms, render: 6ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 4ms (compile: 1926µs, render: 2ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 2ms (compile: 656µs, render: 1678µs)
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 28ms (compile: 3ms, render: 25ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 9ms (compile: 5ms, render: 5ms)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 716µs, render: 1883µs)
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 3ms (compile: 686µs, render: 1868µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 50ms (compile: 8ms, render: 43ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 8ms (compile: 4ms, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 681µs, render: 1899µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 668µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 28ms (compile: 5ms, render: 23ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 7ms (compile: 1980µs, render: 5ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 787µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 4ms (compile: 835µs, render: 4ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 40ms (compile: 5ms, render: 35ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 6ms (compile: 4ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 923µs, render: 1979µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1007µs, render: 1784µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 53ms (compile: 10ms, render: 44ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 8ms (compile: 3ms, render: 5ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 938µs, render: 1934µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1005µs, render: 1926µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 25ms (compile: 1339µs, render: 24ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 8ms (compile: 2ms, render: 6ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 713µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 750µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 22ms (compile: 3ms, render: 19ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 8ms (compile: 1010µs, render: 7ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 777µs, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 861µs, render: 1976µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 25ms (compile: 1718µs, render: 23ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 915µs, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 798µs, render: 1895µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 600µs, render: 1929µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 22ms (compile: 3ms, render: 19ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 10ms (compile: 4ms, render: 6ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 1003µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 866µs, render: 2ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 23ms (compile: 1860µs, render: 21ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 6ms (compile: 1832µs, render: 4ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 2ms (compile: 711µs, render: 1737µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 2ms (compile: 570µs, render: 1778µs)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 29ms (compile: 2ms, render: 27ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 716µs, render: 1929µs)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 882µs, render: 2ms)
+ GET / 200 in 35ms (compile: 21ms, render: 13ms)
+ GET /api/leagues 200 in 26ms (compile: 22ms, render: 4ms)
+ GET /api/leagues 200 in 3ms (compile: 753µs, render: 1954µs)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 31ms (compile: 9ms, render: 22ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 1722µs, render: 4ms)
+ GET /api/leagues 200 in 9ms (compile: 3ms, render: 6ms)
+ GET /api/leagues 200 in 6ms (compile: 1931µs, render: 4ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 24ms (compile: 7ms, render: 16ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 3ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 6ms (compile: 1991µs, render: 4ms)
+ GET /api/leagues 200 in 10ms (compile: 3ms, render: 7ms)
+ GET /api/leagues 200 in 6ms (compile: 1863µs, render: 4ms)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 28ms (compile: 9ms, render: 19ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 7ms (compile: 3ms, render: 5ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /api/leagues 200 in 9ms (compile: 2ms, render: 7ms)
+ GET /api/leagues 200 in 5ms (compile: 1590µs, render: 4ms)
+✓ Compiled in 79ms
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 5ms (compile: 3ms, render: 3ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 84ms (compile: 69ms, render: 16ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 645µs, render: 2ms)
+✓ Compiled in 47ms
+✓ Compiled in 26ms
+ GET /leagues/cmmbzxnae0000dh2jp1lkytl3 200 in 86ms (compile: 48ms, render: 38ms)
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 86ms (compile: 63ms, render: 24ms)
+✓ Compiled in 50ms
+ GET /leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 143ms (compile: 78ms, render: 65ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 11ms (compile: 5ms, render: 6ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 810µs, render: 2ms)
+ GET /api/leagues/cmmc8bbmf000lrx2egcf2t6az 200 in 3ms (compile: 656µs, render: 3ms)
+ DELETE /api/leagues/cmmc8bbmf000lrx2egcf2t6az/delete 200 in 574ms (compile: 569ms, render: 5ms)
+ GET / 200 in 9ms (compile: 3ms, render: 6ms)
+ GET /api/leagues 200 in 4ms (compile: 1707µs, render: 3ms)
+ GET /api/leagues 200 in 2ms (compile: 591µs, render: 1484µs)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 33ms (compile: 10ms, render: 22ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 853µs, render: 3ms)
+ GET /api/leagues 200 in 13ms (compile: 5ms, render: 8ms)
+ GET /api/leagues 200 in 5ms (compile: 1656µs, render: 4ms)
+ GET / 200 in 57ms (compile: 6ms, render: 51ms)
+ GET /api/leagues 200 in 4ms (compile: 1219µs, render: 3ms)
+ GET /api/leagues 200 in 5ms (compile: 1441µs, render: 4ms)
+ GET /api/leagues 200 in 3ms (compile: 1051µs, render: 2ms)
+ GET / 200 in 16ms (compile: 1324µs, render: 15ms)
+ GET /api/leagues 200 in 5ms (compile: 1102µs, render: 4ms)
+ GET /api/leagues 200 in 5ms (compile: 2ms, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 1309µs, render: 1930µs)
+ GET / 200 in 20ms (compile: 1471µs, render: 18ms)
+ GET /api/leagues 200 in 6ms (compile: 1065µs, render: 5ms)
+ GET /api/leagues 200 in 2ms (compile: 625µs, render: 1577µs)
+ GET /api/leagues 200 in 3ms (compile: 908µs, render: 1948µs)
+ GET / 200 in 24ms (compile: 3ms, render: 21ms)
+ GET /api/leagues 200 in 4ms (compile: 915µs, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 693µs, render: 2ms)
+ GET /api/leagues 200 in 3ms (compile: 1107µs, render: 1680µs)
+ GET / 200 in 48ms (compile: 3ms, render: 44ms)
+ GET /api/leagues 200 in 4ms (compile: 1186µs, render: 3ms)
+ GET /api/leagues 200 in 4ms (compile: 1078µs, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 675µs, render: 1983µs)
+ GET / 200 in 47ms (compile: 5ms, render: 42ms)
+ GET /api/leagues 200 in 4ms (compile: 918µs, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 652µs, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 981µs, render: 1918µs)
+ GET / 200 in 41ms (compile: 4ms, render: 36ms)
+ GET /api/leagues 200 in 4ms (compile: 1818µs, render: 3ms)
+ GET /api/leagues 200 in 4ms (compile: 832µs, render: 3ms)
+ GET /api/leagues 200 in 3ms (compile: 1024µs, render: 2ms)
+ GET / 200 in 39ms (compile: 5ms, render: 34ms)
+ GET /api/leagues 200 in 6ms (compile: 1820µs, render: 5ms)
+ GET /api/leagues 200 in 4ms (compile: 1805µs, render: 2ms)
+ GET /api/leagues 200 in 3ms (compile: 1032µs, render: 1708µs)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 38ms (compile: 14ms, render: 24ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 8ms (compile: 3ms, render: 5ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 793µs, render: 3ms)
+ DELETE /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 200 in 66ms (compile: 51ms, render: 15ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 5ms (compile: 2ms, render: 3ms)
+ POST /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 200 in 17ms (compile: 8ms, render: 9ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 8ms (compile: 3ms, render: 5ms)
+ POST /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 200 in 21ms (compile: 8ms, render: 12ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 7ms (compile: 3ms, render: 4ms)
+ PATCH /api/matches/cmmc9hp3w000wrx2ei6071php 200 in 496ms (compile: 492ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 1674µs, render: 2ms)
+ PATCH /api/matches/cmmc9hp3w000wrx2ei6071php 200 in 15ms (compile: 6ms, render: 9ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 13ms (compile: 5ms, render: 8ms)
+ DELETE /api/leagues/cmmc7pdka0000rx2e7551pjl9/schedule 200 in 26ms (compile: 9ms, render: 18ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 2ms, render: 4ms)
+✓ Compiled in 60ms
+✓ Compiled in 25ms
+✓ Compiled in 116ms
+ GET /api/leagues/cmmbzxnae0000dh2jp1lkytl3 404 in 7ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 3ms (compile: 675µs, render: 1928µs)
+ GET /api/leagues 200 in 11ms (compile: 3ms, render: 7ms)
+ GET /api/leagues 200 in 6ms (compile: 1467µs, render: 4ms)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 92ms (compile: 70ms, render: 21ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 2ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 934µs, render: 3ms)
+ GET /api/leagues 200 in 10ms (compile: 3ms, render: 7ms)
+ GET /api/leagues 200 in 7ms (compile: 2ms, render: 4ms)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 23ms (compile: 7ms, render: 16ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 2ms, render: 3ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 1383µs, render: 5ms)
+ GET /api/leagues 200 in 10ms (compile: 3ms, render: 7ms)
+ GET /api/leagues 200 in 7ms (compile: 2ms, render: 4ms)
+ GET /leagues/cmmc7pdka0000rx2e7551pjl9 200 in 33ms (compile: 9ms, render: 24ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 6ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmc7pdka0000rx2e7551pjl9 200 in 4ms (compile: 1275µs, render: 3ms)
+ DELETE /api/leagues/cmmc7pdka0000rx2e7551pjl9/delete 200 in 17ms (compile: 8ms, render: 8ms)
+ GET / 200 in 15ms (compile: 3ms, render: 12ms)
+ GET /api/leagues 200 in 5ms (compile: 1726µs, render: 3ms)
+ GET /api/leagues 200 in 2ms (compile: 678µs, render: 1760µs)
+ POST /api/leagues 201 in 15ms (compile: 5ms, render: 9ms)
+ GET /api/leagues 200 in 9ms (compile: 2ms, render: 6ms)
+ GET /leagues/cmmca7ceq0018rx2e764350z4 200 in 30ms (compile: 8ms, render: 22ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 6ms (compile: 3ms, render: 4ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 3ms (compile: 770µs, render: 3ms)
+ POST /api/teams 500 in 64ms (compile: 53ms, render: 11ms)
+ POST /api/teams 500 in 12ms (compile: 3ms, render: 9ms)
+ POST /api/teams 500 in 12ms (compile: 3ms, render: 9ms)
+ POST /api/teams 201 in 14ms (compile: 3ms, render: 11ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 11ms (compile: 5ms, render: 6ms)
+ POST /api/teams 201 in 15ms (compile: 5ms, render: 10ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 10ms (compile: 5ms, render: 5ms)
+ POST /api/teams 201 in 14ms (compile: 5ms, render: 9ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 9ms (compile: 4ms, render: 5ms)
+ POST /api/teams 201 in 14ms (compile: 3ms, render: 11ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 9ms (compile: 4ms, render: 4ms)
+ POST /api/leagues/cmmca7ceq0018rx2e764350z4/schedule 200 in 17ms (compile: 8ms, render: 10ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 7ms (compile: 3ms, render: 4ms)
+ POST /api/leagues/cmmca7ceq0018rx2e764350z4/schedule 200 in 16ms (compile: 8ms, render: 8ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 12ms (compile: 6ms, render: 6ms)
+ POST /api/leagues/cmmca7ceq0018rx2e764350z4/schedule 200 in 17ms (compile: 7ms, render: 10ms)
+ GET /api/leagues/cmmca7ceq0018rx2e764350z4 200 in 8ms (compile: 4ms, render: 4ms)
+Creating team with data: {
+  name: 'Curl Team',
+  leagueId: 'cmmca7ceq0018rx2e764350z4',
+  group: 'B'
+}
+Error creating team: Error [PrismaClientValidationError]: 
+Invalid `__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].team.create()` invocation in
+/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/chunks/[root-of-the-server]__a7882af2._.js:84:162
+
+  81     leagueId,
+  82     group
+  83 });
+→ 84 const team = await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].team.create({
+       data: {
+         name: "Curl Team",
+         leagueId: "cmmca7ceq0018rx2e764350z4",
+         group: "B",
+         ~~~~~
+     ?   id?: String,
+     ?   createdAt?: DateTime,
+     ?   homeMatches?: MatchUncheckedCreateNestedManyWithoutHomeTeamInput,
+     ?   awayMatches?: MatchUncheckedCreateNestedManyWithoutAwayTeamInput
+       }
+     })
+
+Unknown argument `group`. Available options are marked with ?.
+    at <unknown> (src/app/api/teams/route.ts:14:40)
+    at async POST (src/app/api/teams/route.ts:14:22)
+  12 |
+  13 |         console.log('Creating team with data:', { name, leagueId, group });
+> 14 |         const team = await prisma.team.create({
+     |                                        ^
+  15 |             data: { name, leagueId, group } as any,
+  16 |         });
+  17 | {
+  clientVersion: '5.22.0'
+}
+ POST /api/teams 500 in 185ms (compile: 43ms, render: 142ms)
+Creating team with data: {
+  name: 'Curl Team 2',
+  leagueId: 'cmmca7ceq0018rx2e764350z4',
+  group: 'B'
+}
+Error creating team: Error [PrismaClientValidationError]: 
+Invalid `__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].team.create()` invocation in
+/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/chunks/[root-of-the-server]__a7882af2._.js:84:162
+
+  81     leagueId,
+  82     group
+  83 });
+→ 84 const team = await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].team.create({
+       data: {
+         name: "Curl Team 2",
+         leagueId: "cmmca7ceq0018rx2e764350z4",
+         group: "B",
+         ~~~~~
+     ?   id?: String,
+     ?   createdAt?: DateTime,
+     ?   homeMatches?: MatchUncheckedCreateNestedManyWithoutHomeTeamInput,
+     ?   awayMatches?: MatchUncheckedCreateNestedManyWithoutAwayTeamInput
+       }
+     })
+
+Unknown argument `group`. Available options are marked with ?.
+    at <unknown> (src/app/api/teams/route.ts:14:40)
+    at async POST (src/app/api/teams/route.ts:14:22)
+  12 |
+  13 |         console.log('Creating team with data:', { name, leagueId, group });
+> 14 |         const team = await prisma.team.create({
+     |                                        ^
+  15 |             data: { name, leagueId, group } as any,
+  16 |         });
+  17 | {
+  clientVersion: '5.22.0'
+}
+ POST /api/teams 500 in 108ms (compile: 42ms, render: 66ms)
+Persisting failed: Unable to write SST file 00000678.sst
+
+Caused by:
+    No such file or directory (os error 2)
+⨯ Error: ENOENT: no such file or directory, open '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/teams/[__metadata_id__]/route/app-paths-manifest.json'
+    at ignore-listed frames {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/teams/[__metadata_id__]/route/app-paths-manifest.json'
+}
+
+thread 'tokio-runtime-worker' (323465) panicked at /Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17:
+Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Caused by:
+    0: Looking up data for TaskId 176 from database failed
+    1: Unable to open static sorted file referenced from 00000653.meta
+    2: Unable to open static sorted file 00000650.sst
+    3: No such file or directory (os error 2)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+-----
+[1m[31mFATAL[39m[0m: An unexpected Turbopack error occurred. A panic log has been written to /var/folders/rl/jjspnqnn4d7d0b7r1v032g7c0000gn/T/next-panic-8bc2253323615d0100eb93dabb8d7d4d.log.
+
+To help make Turbopack better, report this error by clicking here: https://github.com/vercel/next.js/discussions/new?category=turbopack-error-report&title=Turbopack%20Error%3A%20Failed%20to%20write%20page%20endpoint%20%2F_app&body=Turbopack%20version%3A%20%6023c464985%60%0ANext.js%20version%3A%20%600.0.0%60%0A%0AError%20message%3A%0A%60%60%60%0ATurbopack%20Error%3A%20Failed%20to%20write%20page%20endpoint%20%2F_app%0A%60%60%60&labels=Turbopack,Turbopack%20Panic%20Backtrace
+-----
+
+⨯ Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}
+Error: ENOENT: no such file or directory, open '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/teams/[__metadata_id__]/route/app-paths-manifest.json'
+    at ignore-listed frames {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/teams/[__metadata_id__]/route/app-paths-manifest.json'
+}
+⨯ Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}
+Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+⨯ Error: ENOENT: no such file or directory, open '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/leagues/[__metadata_id__]/route/app-paths-manifest.json'
+    at ignore-listed frames {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/leagues/[__metadata_id__]/route/app-paths-manifest.json'
+}
+
+-----
+[1m[31mFATAL[39m[0m: An unexpected Turbopack error occurred. A panic log has been written to /var/folders/rl/jjspnqnn4d7d0b7r1v032g7c0000gn/T/next-panic-8bc2253323615d0100eb93dabb8d7d4d.log.
+
+To help make Turbopack better, report this error by clicking here: https://github.com/vercel/next.js/discussions/new?category=turbopack-error-report&title=Turbopack%20Error%3A%20Failed%20to%20write%20page%20endpoint%20%2F_app&body=Turbopack%20version%3A%20%6023c464985%60%0ANext.js%20version%3A%20%600.0.0%60%0A%0AError%20message%3A%0A%60%60%60%0ATurbopack%20Error%3A%20Failed%20to%20write%20page%20endpoint%20%2F_app%0A%60%60%60&labels=Turbopack,Turbopack%20Panic%20Backtrace
+-----
+
+⨯ Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}
+Error: ENOENT: no such file or directory, open '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/leagues/[__metadata_id__]/route/app-paths-manifest.json'
+    at ignore-listed frames {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/kaustavmanideka/Documents/projects/Fullstack/Football/.next/dev/server/app/api/leagues/[__metadata_id__]/route/app-paths-manifest.json'
+}
+⨯ Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}
+Error [TurbopackInternalError]: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Execution of *ModuleAssetContext::new failed
+- Execution of PagesProject::client_module_options_context failed
+- Execution of PagesProject::pages_dir failed
+- Failed to restore task data (corrupted database or bug): Meta for find_pages_structure (TaskId 176))
+  
+  Caused by:
+      0: Looking up data for TaskId 176 from database failed
+      1: Unable to open static sorted file referenced from 00000653.meta
+      2: Unable to open static sorted file 00000650.sst
+      3: No such file or directory (os error 2)
+    at <unknown> (TurbopackInternalError: Failed to write page endpoint /_app) {
+  location: '/Users/geist/dev/actions-runner/_work/next.js/next.js/turbopack/crates/turbo-tasks-backend/src/backend/operation/mod.rs:156:17'
+}

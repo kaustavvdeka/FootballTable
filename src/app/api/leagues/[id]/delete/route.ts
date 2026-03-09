@@ -12,10 +12,10 @@ export async function DELETE(
         const { id } = await params;
 
         await prisma.league.delete({
-            where: { id }
+            where: { id },
         });
 
-        return NextResponse.json({ message: 'League deleted' });
+        return NextResponse.json({ success: true });
     } catch (error) {
         return NextResponse.json(
             { error: 'Failed to delete league' },

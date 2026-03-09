@@ -1,31 +1,36 @@
 export const dynamic = "force-dynamic";
+export const runtime = "nodejs";
 
-import { NextResponse } from 'next/server';
-import { prisma } from '@/lib/prisma';
+import { NextResponse, NextRequest } from "next/server";
+import { prisma } from "@/lib/prisma";
 
 export async function GET(
-    request: Request,
-    { params }: { params: Promise<{ id: string }> }
+  request: NextRequest,
+  context: { params: Promise<{ id: string }> }
 ) {
-    try {
-        const { id } = await params;
-        const league = await prisma.league.findUnique({
-            where: { id },
-            include: {
-                teams: true,
-                matches: {
-                    include: { homeTeam: true, awayTeam: true },
-                    orderBy: { createdAt: 'asc' }
-                }
-            }
-        });
+  try {
+    const { id } = await context.params;
 
-        if (!league) {
-            return NextResponse.json({ error: 'League not found' }, { status: 404 });
-        }
+    const league = await prisma.league.findUnique({
+      where: { id },
+      include: {
+        teams: true,
+        matches: {
+          include: { homeTeam: true, awayTeam: true },
+          orderBy: { createdAt: "asc" },
+        },
+      },
+    });
 
-        return NextResponse.json(league);
-    } catch (error) {
-        return NextResponse.json({ error: 'Failed to fetch league details' }, { status: 500 });
+    if (!league) {
+      return NextResponse.json({ error: "League not found" }, { status: 404 });
     }
+
+    return NextResponse.json(league);
+  } catch {
+    return NextResponse.json(
+      { error: "Failed to fetch league details" },
+      { status: 500 }
+    );
+  }
 }

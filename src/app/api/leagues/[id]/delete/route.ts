@@ -1,25 +1,25 @@
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 
-import { NextResponse } from 'next/server';
-import { prisma } from '@/lib/prisma';
+import { NextResponse, NextRequest } from "next/server";
+import { prisma } from "@/lib/prisma";
 
 export async function DELETE(
-    request: Request,
-    { params }: { params: Promise<{ id: string }> }
+  request: NextRequest,
+  context: { params: Promise<{ id: string }> }
 ) {
-    try {
-        const { id } = await params;
+  try {
+    const { id } = await context.params;
 
-        await prisma.league.delete({
-            where: { id },
-        });
+    await prisma.league.delete({
+      where: { id },
+    });
 
-        return NextResponse.json({ success: true });
-    } catch (error) {
-        return NextResponse.json(
-            { error: 'Failed to delete league' },
-            { status: 500 }
-        );
-    }
+    return NextResponse.json({ success: true });
+  } catch (error) {
+    return NextResponse.json(
+      { error: "Failed to delete league" },
+      { status: 500 }
+    );
+  }
 }

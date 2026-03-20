@@ -509,7 +509,7 @@ export default function LeaguePage({ params }: { params: Promise<{ id: string }>
                     onClick={() => setActiveTab('table')}
                     className={`flex flex-1 justify-center sm:justify-start items-center gap-2 px-6 py-2.5 rounded-lg text-sm font-bold transition-all ${activeTab === 'table' ? 'bg-slate-800 text-white shadow-sm ring-1 ring-slate-700' : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/50'}`}
                 >
-                    <LayoutList size={16} /> Standings (Group Phase)
+                    <LayoutList size={16} /> Standingss (Group Phase)
                 </button>
                 <button
                     onClick={() => setActiveTab('matches')}
